@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Saída / downloads
+saida/
+_debug/
+*.pdf
+*.zip
+
+# Sessões / perfis (não commitar)
+storage_state.json
+pw_profile*/
+chrome_tec_profile*/
+
+# IDEs
+.vscode/
+.idea/
