@@ -1,4 +1,4 @@
-# TecConcursos Downloader (Provas + Gabaritos)
+# Web Scraping - ContestsAI
 
 Script em Python para **coletar provas e gabaritos** (PDF) a partir da área de **Concursos** do TecConcursos, organizando os arquivos por **ano** e por **nível** (`medio`, `superior`, `sem_classificacao`).
 
