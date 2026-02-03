@@ -136,5 +136,4 @@ Use o modo CDP (Chrome real) como descrito acima.
 ---
 
 ## ⚠️ Observações
-- Este repositório deve **conter somente o código**. Evite commitar PDFs baixados (use `.gitignore`).
-- O comportamento e a estrutura do site podem mudar e exigir ajuste nos seletores.
+- Este projeto é de código aberto para fins educacionais. Use com responsabilidade e respeite os termos de uso dos sites de origem.
